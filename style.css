@@ -2,6 +2,7 @@ body{
 }
 a{
   color: gold;
+  transaction: all .4s;
 }
 a:hover{
   color: green;
